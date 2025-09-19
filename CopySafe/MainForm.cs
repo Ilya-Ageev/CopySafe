@@ -1,7 +1,3 @@
-using System.IO;
-using System.Linq;
-using System.Data.SQLite;
-
 namespace CopySafe
 {
     public partial class MainForm : Form
